@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/beaches"
+        style="@style/CategoryStyle"
+        android:background="@color/category_beaches"
+        android:text="@string/category_beaches" />
+
+    <TextView
+        android:id="@+id/othernaturalareas"
+        style="@style/CategoryStyle"
+        android:background="@color/category_othernaturalareas"
+        android:text="@string/category_othernaturalareas" />
+
+    <TextView
+        android:id="@+id/restaurants"
+        style="@style/CategoryStyle"
+        android:background="@color/category_restaurants"
+        android:text="@string/category_restaurants" />
+
+    <TextView
+        android:id="@+id/landmarks"
+        style="@style/CategoryStyle"
+        android:background="@color/category_landmarks"
+        android:text="@string/category_landmarks" />
+
+    <TextView
+        android:id="@+id/hotels"
+        style="@style/CategoryStyle"
+        android:background="@color/category_hotels"
+        android:text="@string/category_hotels" />
+
+</LinearLayout>
