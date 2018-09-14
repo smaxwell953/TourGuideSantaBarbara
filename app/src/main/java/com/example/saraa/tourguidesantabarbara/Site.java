@@ -3,19 +3,21 @@ package com.example.saraa.tourguidesantabarbara;
 import android.location.Location;
 
 public class Site  {
+    private int mImageResourceId;
     private String mSiteName;
     private String mSitePhone;
     private String mSiteAddress;
-    private String mImageResourceUrl;
     private Location mSiteLocation;
 
-    public Site(String name, String phone, String address, String imageUrl, Location location) {
+    public Site(int imageResourceId, String name, String phone, String address, Location location) {
+        mImageResourceId = imageResourceId;
         mSiteName = name;
         mSitePhone = phone;
         mSiteAddress = address;
-        mImageResourceUrl = imageUrl;
         mSiteLocation = location;
     }
+
+    public int getImageResourceId() { return mImageResourceId; }
 
     public String getSiteName() {
         return mSiteName;
@@ -31,9 +33,5 @@ public class Site  {
 
     public String getSiteAddress() {
         return mSiteAddress;
-    }
-
-    public String getImageResourceUrl(){
-        return mImageResourceUrl;
     }
 }

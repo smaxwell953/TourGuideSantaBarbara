@@ -24,27 +24,27 @@ public class LandmarksActivity extends AppCompatActivity {
         Location missionSantaBarbara = new Location(getResources().getString(R.string.landmarks_name_1));
         missionSantaBarbara.setLatitude(34.4381);
         missionSantaBarbara.setLongitude(-119.7136);
-        sites.add(new Site(getResources().getString(R.string.landmarks_name_1), getResources().getString(R.string.landmarks_phone_1), getResources().getString(R.string.landmarks_address_1), getResources().getString(R.string.landmarks_imageurl_1), missionSantaBarbara));
+        sites.add(new Site(R.drawable.landmarks_1_missionsantabarbara, getResources().getString(R.string.landmarks_name_1), getResources().getString(R.string.landmarks_phone_1), getResources().getString(R.string.landmarks_address_1), missionSantaBarbara));
 
         Location moretonBayFigTree = new Location(getResources().getString(R.string.landmarks_name_2));
         moretonBayFigTree.setLatitude(34.4138);
         moretonBayFigTree.setLongitude(-119.6940);
-        sites.add(new Site(getResources().getString(R.string.landmarks_name_2), getResources().getString(R.string.landmarks_phone_2), getResources().getString(R.string.landmarks_address_2), getResources().getString(R.string.landmarks_imageurl_2), moretonBayFigTree));
+        sites.add(new Site(R.drawable.landmarks_2_moretonbayfigtree, getResources().getString(R.string.landmarks_name_2), getResources().getString(R.string.landmarks_phone_2), getResources().getString(R.string.landmarks_address_2), moretonBayFigTree));
 
         Location rafaelGonzalezHouse = new Location(getResources().getString(R.string.landmarks_name_3));
         rafaelGonzalezHouse.setLatitude(34.4242);
         rafaelGonzalezHouse.setLongitude(-119.6959);
-        sites.add(new Site(getResources().getString(R.string.landmarks_name_3), getResources().getString(R.string.landmarks_phone_3), getResources().getString(R.string.landmarks_address_3), getResources().getString(R.string.landmarks_imageurl_3), rafaelGonzalezHouse));
+        sites.add(new Site(R.drawable.landmarks_3_rafaelgonzaleshouse, getResources().getString(R.string.landmarks_name_3), getResources().getString(R.string.landmarks_phone_3), getResources().getString(R.string.landmarks_address_3), rafaelGonzalezHouse));
 
         Location santaBarbaraCountyCourthouse = new Location(getResources().getString(R.string.landmarks_name_4));
         santaBarbaraCountyCourthouse.setLatitude(34.4242);
         santaBarbaraCountyCourthouse.setLongitude(-119.7021);
-        sites.add(new Site(getResources().getString(R.string.landmarks_name_4), getResources().getString(R.string.landmarks_phone_4), getResources().getString(R.string.landmarks_address_4), getResources().getString(R.string.landmarks_imageurl_4), santaBarbaraCountyCourthouse));
+        sites.add(new Site(R.drawable.landmarks_4_santabarbaracountycourthouse, getResources().getString(R.string.landmarks_name_4), getResources().getString(R.string.landmarks_phone_4), getResources().getString(R.string.landmarks_address_4), santaBarbaraCountyCourthouse));
 
         Location stearnsWharf = new Location(getResources().getString(R.string.landmarks_name_5));
         stearnsWharf.setLatitude(34.4100);
         stearnsWharf.setLongitude(-119.6856);
-        sites.add(new Site(getResources().getString(R.string.landmarks_name_5), getResources().getString(R.string.landmarks_phone_5), getResources().getString(R.string.landmarks_address_5), getResources().getString(R.string.landmarks_imageurl_5), stearnsWharf));
+        sites.add(new Site(R.drawable.landmarks_5_stearnswharf, getResources().getString(R.string.landmarks_name_5), getResources().getString(R.string.landmarks_phone_5), getResources().getString(R.string.landmarks_address_5), stearnsWharf));
 
         SiteAdapter adapter = new SiteAdapter(this, sites);
 

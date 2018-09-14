@@ -13,7 +13,7 @@
     <color name="category_beaches">#3366FF</color>
 
     <!-- Background color for the other natural areas category -->
-    <color name="category_othernaturalareas">#33CC33</color>
+    <color name="category_othernaturalareas">#999900</color>
 
     <!-- Background color for the restaurants category -->
     <color name="category_restaurants">#990000</color>

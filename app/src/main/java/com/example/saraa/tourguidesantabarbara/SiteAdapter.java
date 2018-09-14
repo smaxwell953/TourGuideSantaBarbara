@@ -42,12 +42,7 @@ public class SiteAdapter extends ArrayAdapter<Site> {
         addressTextView.setText(currentSite.getSiteAddress());
 
         ImageView imageView = (ImageView) listItemView.findViewById(R.id.image_view);
-        // Improve picture loading..
-        Picasso.with(getContext())
-                .load(currentSite.getImageResourceUrl())
-                .resizeDimen(R.dimen.list_item_image_width,R.dimen.list_item_image_height)
-                .centerInside()
-                .into(imageView);
+        imageView.setImageResource(currentSite.getImageResourceId());
 
         return listItemView;
     }

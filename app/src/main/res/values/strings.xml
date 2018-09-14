@@ -11,105 +11,81 @@
     <string name="beaches_name_1">East Beach</string>
     <string name="beaches_phone_1">(805) 897.2524</string>
     <string name="beaches_address_1">1118 E Cabrillo Blvd Santa Barbara, CA 93103</string>
-    <string name="beaches_imageurl_1">https://www.santabarbaraca.gov/images/parks/71_EastBeach_1.jpg</string>
     <string name="beaches_name_2">West Beach</string>
     <string name="beaches_phone_2">(805) 897.2524</string>
     <string name="beaches_address_2">State St and W Cabrillo Blvd Santa Barbara, CA 93103</string>
-    <string name="beaches_imageurl_2">https://www.californiabeaches.com/wp-content/uploads/2014/09/bigs-Santa-Barbara-mtns-and-beach-east-of-pier-163650389-Large-e1512531022447-650x392.jpg</string>
     <string name="beaches_name_3">Arroyo Burro Beach</string>
     <string name="beaches_phone_3">(805) 897.2524</string>
     <string name="beaches_address_3">2981 Cliff Drive Santa Barbara, CA 93109</string>
-    <string name="beaches_imageurl_3">https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hendrys_Beach.JPG/800px-Hendrys_Beach.JPG</string>
     <string name="beaches_name_4">Leadbetter Beach</string>
     <string name="beaches_phone_4">(805) 897.2524</string>
     <string name="beaches_address_4">801 Shoreline Dr. Santa Barbara, CA 93109</string>
-    <string name="beaches_imageurl_4">https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Leadbetter_beach.jpg/800px-Leadbetter_beach.jpg</string>
 
     <!-- Other Natural Areas -->
     <string name="othernaturalareas_name_1">Santa Barbara Botanic Garden</string>
     <string name="othernaturalareas_phone_1">(805) 682.4726</string>
     <string name="othernaturalareas_address_1">1212 Mission Canyon Road Santa Barbara, CA 93105</string>
-    <string name="othernaturalareas_imageurl_1">https://www.sbbg.org/sites/default/files/primary_images/meadow-2014_stacy-bloodworth_bd_18643.jpg</string>
     <string name="othernaturalareas_name_2">Channel Islands National Park</string>
     <string name="othernaturalareas_phone_2">(805) 884.1475</string>
     <string name="othernaturalareas_address_2">113 Harbor Way 4th Floor Santa Barbara, CA 93109</string>
-    <string name="othernaturalareas_imageurl_2">https://78.media.tumblr.com/avatar_5070cb2e93ef_128.pnj</string>
     <string name="othernaturalareas_name_3">Chumash Painted Cave State Historic Park</string>
     <string name="othernaturalareas_phone_3">(805) 733.3713</string>
     <string name="othernaturalareas_address_3">CA-154 and Painted Cave Road Santa Barbara, CA 93105</string>
-    <string name="othernaturalareas_imageurl_3">https://78.media.tumblr.com/avatar_5070cb2e93ef_128.pnj</string>
     <string name="othernaturalareas_name_4">Rattlesnake Canyon Park</string>
     <string name="othernaturalareas_phone_4">(805) 897.2524</string>
     <string name="othernaturalareas_address_4">Forest Rte 5N40 and Gibraltar Rd Santa Barbara, CA 93105</string>
-    <string name="othernaturalareas_imageurl_4">https://78.media.tumblr.com/avatar_5070cb2e93ef_128.pnj</string>
     <string name="othernaturalareas_name_5">Shoreline Park</string>
     <string name="othernaturalareas_phone_5"> </string>
     <string name="othernaturalareas_address_5">Shoreline Dr and Santa Rosa Place, Santa Barbara, CA 93109</string>
-    <string name="othernaturalareas_imageurl_5">https://78.media.tumblr.com/avatar_5070cb2e93ef_128.pnj</string>
 
     <!-- Restaurants -->
     <string name="restaurants_name_1">La Super Rica Taqueria</string>
     <string name="restaurants_phone_1">(805) 963.4940</string>
     <string name="restaurants_address_1">622 N. Milpas St, Santa Barbara, CA 93103</string>
-    <string name="restaurants_imageurl_1">https://78.media.tumblr.com/avatar_5070cb2e93ef_128.pnj</string>
     <string name="restaurants_name_2">The Natural Cafe</string>
     <string name="restaurants_phone_2">(805) 962.9494</string>
     <string name="restaurants_address_2">508 State St, Santa Barbara, CA 93101</string>
-    <string name="restaurants_imageurl_2">https://78.media.tumblr.com/avatar_5070cb2e93ef_128.pnj</string>
     <string name="restaurants_name_3">The Habit</string>
     <string name="restaurants_phone_3">(805) 892.5400</string>
     <string name="restaurants_address_3">628 State St, Santa Barbara, CA 93101</string>
-    <string name="restaurants_imageurl_3">https://78.media.tumblr.com/avatar_5070cb2e93ef_128.pnj</string>
     <string name="restaurants_name_4">Cajun Kitchen</string>
     <string name="restaurants_phone_4">(805) 687.2062</string>
     <string name="restaurants_address_4">2817, 1924 De La Vina St A, Santa Barbara, CA 93101</string>
-    <string name="restaurants_imageurl_4">https://78.media.tumblr.com/avatar_5070cb2e93ef_128.pnj</string>
     <string name="restaurants_name_5">Rusty\'s Pizza</string>
     <string name="restaurants_phone_5">(805) 564.1111</string>
     <string name="restaurants_address_5">111 State St, Santa Barbara, CA 93101</string>
-    <string name="restaurants_imageurl_5">https://78.media.tumblr.com/avatar_5070cb2e93ef_128.pnj</string>
 
     <!-- Landmarks -->
     <string name="landmarks_name_1">Mission Santa Barbara</string>
     <string name="landmarks_phone_1">(805) 682.4151</string>
     <string name="landmarks_address_1">2201 Laguna St, Santa Barbara, CA 93105</string>
-    <string name="landmarks_imageurl_1">https://78.media.tumblr.com/avatar_5070cb2e93ef_128.pnj</string>
     <string name="landmarks_name_2">Moreton Bay Fig Tree</string>
     <string name="landmarks_phone_2">(805) 000.0000</string>
     <string name="landmarks_address_2">Chapala Street and Montecito Street, Santa Barbara, CA 93101</string>
-    <string name="landmarks_imageurl_2">https://78.media.tumblr.com/avatar_5070cb2e93ef_128.pnj</string>
     <string name="landmarks_name_3">Rafael Gonzalez House</string>
     <string name="landmarks_phone_3">(805) 000.0000</string>
     <string name="landmarks_address_3">835 Laguna St Santa Barbara, CA 93101</string>
-    <string name="landmarks_imageurl_3">https://78.media.tumblr.com/avatar_5070cb2e93ef_128.pnj</string>
     <string name="landmarks_name_4">Santa Barbara County Courthouse</string>
     <string name="landmarks_phone_4">(805) 568.3070</string>
     <string name="landmarks_address_4">1100 Anacapa St, Santa Barbara, CA 93101</string>
-    <string name="landmarks_imageurl_4">https://78.media.tumblr.com/avatar_5070cb2e93ef_128.pnj</string>
     <string name="landmarks_name_5">Stearns Wharf</string>
     <string name="landmarks_phone_5">(805) 564.5530</string>
     <string name="landmarks_address_5">217 Stearns Wharf, Santa Barbara, CA 93101</string>
-    <string name="landmarks_imageurl_5">https://78.media.tumblr.com/avatar_5070cb2e93ef_128.pnj</string>
 
     <!-- Hotels -->
     <string name="hotels_name_1">Brisas Del Mar, Inn at the Beach</string>
     <string name="hotels_phone_1">(805) 966.2219</string>
     <string name="hotels_address_1">3811, 223 Castillo St, Santa Barbara, CA 93101</string>
-    <string name="hotels_imageurl_1">https://78.media.tumblr.com/avatar_5070cb2e93ef_128.pnj</string>
     <string name="hotels_name_2">Hotel Santa Barbara</string>
     <string name="hotels_phone_2">(805) 957.9300</string>
     <string name="hotels_address_2">533 State St, Santa Barbara, CA 93101</string>
-    <string name="hotels_imageurl_2">https://78.media.tumblr.com/avatar_5070cb2e93ef_128.pnj</string>
     <string name="hotels_name_3">Inn by the Harbor</string>
     <string name="hotels_phone_3">(805) 963.7851</string>
     <string name="hotels_address_3">433 W Montecito St, Santa Barbara, CA 93101</string>
-    <string name="hotels_imageurl_3">https://78.media.tumblr.com/avatar_5070cb2e93ef_128.pnj</string>
     <string name="hotels_name_4">Lavender Inn</string>
     <string name="hotels_phone_4">(805) 963.4317</string>
     <string name="hotels_address_4">206 Castillo St, Santa Barbara, CA 93101</string>
-    <string name="hotels_imageurl_4">https://78.media.tumblr.com/avatar_5070cb2e93ef_128.pnj</string>
     <string name="hotels_name_5">The Wayfarer</string>
     <string name="hotels_phone_5">(805) 845.1000</string>
     <string name="hotels_address_5">12 E Montecito St, Santa Barbara, CA 93101</string>
-    <string name="hotels_imageurl_5">https://78.media.tumblr.com/avatar_5070cb2e93ef_128.pnj</string>
 </resources>
