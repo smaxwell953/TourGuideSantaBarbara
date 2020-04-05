@@ -17,25 +17,5 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".BeachesActivity"
-            android:label="@string/category_beaches">
-        </activity>
-        <activity
-            android:name=".OtherNaturalAreasActivity"
-            android:label="@string/category_othernaturalareas">
-        </activity>
-        <activity
-            android:name=".RestaurantsActivity"
-            android:label="@string/category_restaurants">
-        </activity>
-        <activity
-            android:name=".LandmarksActivity"
-            android:label="@string/category_landmarks">
-        </activity>
-        <activity
-            android:name=".HotelsActivity"
-            android:label="@string/category_hotels">
-        </activity>
     </application>
 </manifest>
