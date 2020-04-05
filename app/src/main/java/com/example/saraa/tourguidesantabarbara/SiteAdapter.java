@@ -26,10 +26,10 @@ public class SiteAdapter extends ArrayAdapter<Site> {
 
         Site currentSite = getItem(position);
 
-        TextView nameTextView = (TextView) listItemView.findViewById(R.id.name);
+        TextView nameTextView = listItemView.findViewById(R.id.name);
         nameTextView.setText(currentSite.getSiteName());
 
-        TextView phoneTextView = (TextView) listItemView.findViewById(R.id.phone);
+        TextView phoneTextView = listItemView.findViewById(R.id.phone);
         if("".equals(currentSite.getSitePhone()))
             phoneTextView.setVisibility(View.GONE);
         else {
@@ -37,10 +37,10 @@ public class SiteAdapter extends ArrayAdapter<Site> {
             phoneTextView.setText(currentSite.getSitePhone());
         }
 
-        TextView addressTextView = (TextView) listItemView.findViewById(R.id.address);
+        TextView addressTextView = listItemView.findViewById(R.id.address);
         addressTextView.setText(currentSite.getSiteAddress());
 
-        ImageView imageView = (ImageView) listItemView.findViewById(R.id.image_view);
+        ImageView imageView = listItemView.findViewById(R.id.image_view);
         imageView.setImageResource(currentSite.getImageResourceId());
 
         return listItemView;
