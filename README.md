@@ -1,4 +1,4 @@
-<h1>TourGuideApp</h1>
+<h1>TourGuideSantaBarbara</h1>
 This app is part of the Udacity Android Basics Nanodegree Program.
 
 <h2>Project Overview</h2>
