@@ -1,7 +1,25 @@
-In this project from the Udacity Android Basics Nanodegree, I made an interactive app in the form of a tour guide of the city of Santa Barbara, California.
+<h1>TourGuideApp</h1>
+This app is part of the Udacity Android Basics Nanodegree Program.
 
-(1) Beaches<br>
-(2) Hotels<br>
-(3) Landmarks<br>
-(4) Other Natural Areas<br>
-(5) Restaurants
+<h2>Project Overview</h2>
+The Tour Guide app presents relevant information to visitors of your city.
+
+<h2>What will I learn?</h2>
+<ol>
+  <li>Planning your app design and navigation before coding.</li>
+  <li>Selecting proper data structures to store lists of information.</li>
+  <li>Building layouts to display those lists of data.</li>
+  <li>Navigating between those lists using intents and multiple Activities or a ViewPager.</li>
+  <li>Creating your own custom classes.</li>
+  <li>Properly handling images or audio (if applicable).</li></ol>
+
+<h2>Project Layout</h2>
+<ol>
+  <li>Beaches</li>
+  <li>Hotels</li>
+  <li>Landmarks</li>
+  <li>Other Natural Areas</li>
+  <li>Restaurants</li>
+</ol>
+
+<h2>Final Output - Screenshots</h2>
