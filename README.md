@@ -23,3 +23,8 @@ The Tour Guide app presents relevant information to visitors of your city.
 </ol>
 
 <h2>Final Output - Screenshots</h2>
+![Page1](https://user-images.githubusercontent.com/34871894/79427548-1ac7d000-7f82-11ea-868f-407c91741969.jpg)
+![Page2](https://user-images.githubusercontent.com/34871894/79427552-1bf8fd00-7f82-11ea-85e9-00764944c29c.jpg)
+![Page3](https://user-images.githubusercontent.com/34871894/79427562-1e5b5700-7f82-11ea-855e-834d4b56ef37.jpg)
+![Page4](https://user-images.githubusercontent.com/34871894/79427566-1f8c8400-7f82-11ea-96e4-17eef67d1723.jpg)
+![Page5](https://user-images.githubusercontent.com/34871894/79427569-20251a80-7f82-11ea-9900-ebc3dc1f219b.jpg)
